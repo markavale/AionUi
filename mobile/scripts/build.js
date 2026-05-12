@@ -157,4 +157,4 @@ if (platform === 'ios' && isLocal && (autoSubmit || directSubmit)) {
       process.exit(1);
     }
   }
-}
+};

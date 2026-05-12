@@ -590,4 +590,4 @@ try {
 } catch (error) {
   console.error('❌ Build failed:', error.message);
   process.exit(1);
-}
+};
